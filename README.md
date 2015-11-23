@@ -7,3 +7,6 @@ git config --list
 Lists the global config stuff
 
 Course website: http://chendaniely.github.io/2015-11-23-harvard/
+
+git add .
+Adds all modified files
