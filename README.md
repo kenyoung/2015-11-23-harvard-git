@@ -31,3 +31,6 @@ git reset --hard
 Panic button - brings you back to previous commit.
 
 Etherpad link: http://pad.software-carpentry.org/2015-11-23-harvard
+
+# Header in markdown format
+## Second level markdown
