@@ -17,3 +17,6 @@ directory/* (ignore everything in directory "directory")
 
 git log
 Print commit history --oneline give brief summary
+
+git diff
+gives differences like linux diff command
