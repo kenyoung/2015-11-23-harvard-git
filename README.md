@@ -21,3 +21,11 @@ Print commit history --oneline give brief summary
 git diff
 gives differences like linux diff command
 git diff HEAD~1 compares current committed version with penultimate
+
+git checkout HEAD~1 someFile
+CHecks out a file from penultimate repository version
+git checkout 766df2 someFile
+checks out from repository version with hash and name (from git log --oneline)
+
+git reset --hard
+Panic button
