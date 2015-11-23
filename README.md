@@ -34,3 +34,10 @@ Etherpad link: http://pad.software-carpentry.org/2015-11-23-harvard
 
 # Header in markdown format
 ## Second level markdown
+
+- bullet one, I hope
+- another bullet
+
+1. Item one
+2. Item two
+3. Third item
