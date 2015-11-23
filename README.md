@@ -20,3 +20,4 @@ Print commit history --oneline give brief summary
 
 git diff
 gives differences like linux diff command
+git diff HEAD~1 compares current committed version with penultimate
