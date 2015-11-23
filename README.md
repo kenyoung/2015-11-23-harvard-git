@@ -44,3 +44,9 @@ Etherpad link: http://pad.software-carpentry.org/2015-11-23-harvard
 
 git clone
 reproduces a remote repository on your computer.
+
+git remote add upstream {someone else's github repository}
+Defines another repository as the upstream repository.
+
+git pull upstream master
+Pulls changes from the upstream to the local git repository
