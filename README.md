@@ -11,3 +11,6 @@ Course website: http://chendaniely.github.io/2015-11-23-harvard/
 git add .
 Adds all modified files
 
+.gitignore contains files to ignore:
+*~ (ignore files ending in tilda)
+directory/* (ignore everything in directory "directory")
