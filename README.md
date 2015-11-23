@@ -41,3 +41,6 @@ Etherpad link: http://pad.software-carpentry.org/2015-11-23-harvard
 1. Item one
 2. Item two
 3. Third item
+
+git clone
+reproduces a remote repository on your computer.
