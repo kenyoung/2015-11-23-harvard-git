@@ -29,3 +29,5 @@ checks out from repository version with hash and name (from git log --oneline)
 
 git reset --hard
 Panic button - brings you back to previous commit.
+
+Etherpad link: http://pad.software-carpentry.org/2015-11-23-harvard
