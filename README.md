@@ -14,3 +14,6 @@ Adds all modified files
 .gitignore contains files to ignore:
 *~ (ignore files ending in tilda)
 directory/* (ignore everything in directory "directory")
+
+git log
+Print commit history --oneline give brief summary
