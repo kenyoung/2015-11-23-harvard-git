@@ -28,4 +28,4 @@ git checkout 766df2 someFile
 checks out from repository version with hash and name (from git log --oneline)
 
 git reset --hard
-Panic button
+Panic button - brings you back to previous commit.
